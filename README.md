@@ -1,0 +1,2 @@
+# restaurant
+Just another repository
